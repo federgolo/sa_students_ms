@@ -1,5 +1,4 @@
 package sa.student.model;
-
 import javax.persistence.*;
 
 @Entity
